@@ -1,0 +1,82 @@
+[
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/120308104/f-fender-mustang-gtx50-amp-cvr.jpg",
+    "name": "Fender Mustang GTX50 Amp CVR",
+    "description": "Транзисторный комбоусилитель.",
+    "power": "50W",
+    "size": "400 х 540 х 320 мм",
+    "price": "1200"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/75744003/f-fender-mustang-lt-25.jpg",
+    "name": "Fender Mustang LT 25",
+    "description": "Цифровой комбоусилитель.",
+    "power": "25W",
+    "size": "550 х 415 х 255 мм",
+    "price": "500"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/26484511/f-fender-champion-100.jpg",
+    "name": "Fender Champion 100",
+    "description": "Транзисторный комбоусилитель.",
+    "power": "100W",
+    "size": "690 х 490 х 265 мм",
+    "price": "660"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/24095740/f-fender-acoustasonic-15.jpg",
+    "name": "Fender Acoustasonic 15",
+    "description": "Транзисторный аккустический комбоусилитель.",
+    "power": "15W",
+    "size": "520 x 225 x 220 мм",
+    "price": "245"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/175038170/f-fender-champion-ii-100-230v-eu.jpg",
+    "name": "Fender CHAMPION II 100 230V EU",
+    "description": "Ламповый комбоусилитель.",
+    "power": "100W",
+    "size": "530 x 440 x 280 мм",
+    "price": "1015"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/59586009/f-fender-blues-junior-iv.jpg",
+    "name": "Fender Blues Junior IV",
+    "description": "Ламповый комбоусилитель.",
+    "power": "15W",
+    "size": "510 х 232 х 220 мм",
+    "price": "103"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/30000789/f-fender-68-custom-twin-reverb.jpg",
+    "name": "Fender 68 Custom Twin Reverb",
+    "description": "Ламповый комбоусилитель.",
+    "power": "80W",
+    "size": "490 x 475 x 280 мм",
+    "price": "2x12''"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/88859610/f-fender-champion-50xl-wzmacniacz-gitarowy.jpg",
+    "name": "Fender Champion 50Xl",
+    "description": "Цифровой комбоусилитель.",
+    "power": "50W",
+    "size": "660 x 260 x 205 мм",
+    "price": "586"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/29207072/f-fender-rumble-40-v3.jpg",
+    "name": "Fender Rumble 40 V3",
+    "description": "Транзисторный комбоусилитель.",
+    "power": "40W",
+    "size": "760 x 830 x 360 мм",
+    "price": "920"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/98849534/f-fender-64-custom-princeton-reverb.jpg",
+    "name": "Fender 64 Custom Princeton Reverb",
+    "description": "Ламповый комбоусилитель.",
+    "power": "12W",
+    "size": "760 x 830 x 360 мм",
+    "price": "640"
+  }
+]
