@@ -1,0 +1,82 @@
+[
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/172641440/f-apple-iphone-16-pro-128gb-tytan-czarny.jpg",
+    "name": "Iphone 15 Pro Max",
+    "description": "Телефон Apple.",
+    "power": "50W",
+    "size": "400 х 540 х 320 мм",
+    "price": "700"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/157123293/f-apple-iphone-16-128gb-czarny.jpg",
+    "name": "Iphone 16",
+    "description": "Телефон Apple.",
+    "power": "25W",
+    "size": "550 х 415 х 255 мм",
+    "price": "900"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/179313434/f-redmi-note-14-pro-5g-8-256gb-fioletowy.jpg",
+    "name": "Redmi Note 14 Pro",
+    "description": "Телефон Redmi.",
+    "power": "100W",
+    "size": "690 х 490 х 265 мм",
+    "price": "400"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/163003573/f-samsung-galaxy-s24-sm-s921-8-128gb-czarny.jpg",
+    "name": "Samsung Galaxy S24",
+    "description": "Телефон Samsung.",
+    "power": "15W",
+    "size": "520 x 225 x 220 мм",
+    "price": "599"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/172382009/f-motorola-edge-50-neo-5g-12-512gb-stalowy.jpg",
+    "name": "Motorola Edge 50 Neo",
+    "description": "Телефон Motorola.",
+    "power": "100W",
+    "size": "530 x 440 x 280 мм",
+    "price": "900"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/179284312/f-redmi-note-14-pro-12-512gb-czarny.jpg",
+    "name": "Redmi Note 14 Pro+",
+    "description": "Телефон Redmi.",
+    "power": "15W",
+    "size": "510 х 232 х 220 мм",
+    "price": "300"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/158138956/f-google-pixel-8-pro-12-128gb-niebieski.jpg",
+    "name": "Google Pixel 8 Pro ",
+    "description": "Телефон Google.",
+    "power": "80W",
+    "size": "490 x 475 x 280 мм",
+    "price": "600"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/169827613/f-motorola-moto-g85-5g-12-256gb-szary.jpg",
+    "name": "Motorola Moto",
+    "description": "Телефон Motorola.",
+    "power": "50W",
+    "size": "660 x 260 x 205 мм",
+    "price": "950"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/178991931/f-poco-x7-pro-5g-12-512gb-czarny.jpg",
+    "name": "POCO X7 Pro 5G",
+    "description": "Телефон Poco.",
+    "power": "40W",
+    "size": "760 x 830 x 360 мм",
+    "price": "400"
+  },
+  {
+    "imageUrl": "https://image.ceneostatic.pl/data/products/97863463/f-apple-iphone-13-128gb-polnoc.jpg",
+    "name": "Iphone 13",
+    "description": "Телефон Apple.",
+    "power": "12W",
+    "size": "760 x 830 x 360 мм",
+    "price": "450"
+  }
+]
